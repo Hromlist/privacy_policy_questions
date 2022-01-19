@@ -1,4 +1,4 @@
-Developer built the Вопросы для самопознания app as an Ad Supported app. This
+Developer built the Самопознание: Познай себя сам app as an Ad Supported app. This
 app is provided by at no cost and is intended for use as is:
 
 This privacy policy is used to inform you regarding policies with the collection, use, and
