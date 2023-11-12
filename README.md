@@ -16,6 +16,10 @@ Links to privacy policies of third party service providers used in the app:
 
 https://www.google.com/policies/privacy
 
+<b>Firebase Analytics</b>
+
+https://firebase.google.com/policies/analytics
+
 <b>AdMob</b>
 
 https://support.google.com/admob/answer/6128543
